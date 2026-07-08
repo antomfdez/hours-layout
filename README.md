@@ -15,6 +15,9 @@ Hours is a highly optimized layout focused on modern implementations:
 ## Hours Layout
 ![Layout](https://github.com/antomfdez/hours-layout/blob/main/assets/Hours.png)
 
+## Hours Widemod Layout
+![Layout](https://github.com/antomfdez/hours-layout/blob/main/assets/Hours-wide.png)
+
 ## Mana2 stats (monkeyracer, spacegrams)
 ```
 Hand balance: 30.454% / 18.302% / 9.701% / 41.542%
