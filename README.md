@@ -13,10 +13,10 @@ Hours is a highly optimized layout focused on modern implementations:
 - Repeat key ★ (Repeats the last key press unless it finds any magic rule)
 
 ## Hours Layout
-![Layout](https://github.com/antomfdez/hours-layout/blob/main/assets/Hours.png)
+![Layout](https://github.com/antomfdez/hours-layout/blob/master/assets/Hours.png)
 
 ## Hours Widemod Layout
-![Layout](https://github.com/antomfdez/hours-layout/blob/main/assets/Hours-wide.png)
+![Layout](https://github.com/antomfdez/hours-layout/blob/master/assets/Hours-wide.png)
 
 ## Mana2 stats (monkeyracer, spacegrams)
 ```
