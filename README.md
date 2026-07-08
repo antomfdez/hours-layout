@@ -20,31 +20,31 @@ Hours is a highly optimized layout focused on modern implementations:
 
 ## Mana2 stats (monkeyracer, spacegrams)
 ```
-Hand balance: 30.454% / 18.302% / 9.701% / 41.542%
+Hand balance: 31.813% / 18.141% / 9.418% / 40.628%
 
 ──────────────────────────────────────
        Stat       Bigram   Skipgram
 ──────────────────────────────────────
-  Same Finger      0.528%     3.164%
-    Weighted        0.652      3.900
-  Same Key         1.793%     2.968%
-  Stretch           1.565      3.322
-  Scissor           1.663      4.149
+  Same Finger      0.351%     3.151%
+    Weighted        0.495      3.906
+  Same Key         0.156%     2.867%
+  Stretch           1.846      3.366
+  Scissor           1.578      3.979
 
 ──────────────────────────────────────
    Trigram Stat     All    No Thumbs
 ──────────────────────────────────────
-  Alternation     21.765%     6.080%
-    Alt & SFS      3.096%     0.957%
+  Alternation     23.459%     7.695%
+    Alt & SFS      3.422%     1.409%
 
-  Redirect Total   9.433%     1.934%
-    Red & SFS      2.524%     0.787%
-    Weak           0.143%     0.143%
-    Weak & SFS     0.045%     0.045%
+  Redirect Total   9.841%     2.036%
+    Red & SFS      2.595%     0.867%
+    Weak           0.148%     0.148%
+    Weak & SFS     0.090%     0.090%
 
-  Roll Total      64.672%    16.590%
-    Inroll2       32.582%    10.765%
-    Outroll2      28.960%     4.546%
-    Inroll3        2.411%     1.224%
-    Outroll3       0.719%     0.055%
+  Roll Total      65.692%    19.036%
+    Inroll2       33.445%    12.023%
+    Outroll2      28.985%     5.729%
+    Inroll3        2.519%     1.197%
+    Outroll3       0.744%     0.087%
 ```
