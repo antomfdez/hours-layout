@@ -13,12 +13,8 @@ Hours is a highly optimized layout focused on modern implementations:
 - Repeat key ★ (Repeats the last key press unless it finds any magic rule)
 
 ## Hours Layout
-```
-  k ★ f y w  q j u o .
-  t m s d g  x r i a h
-   z v p c b  l n , ? '
-               e 
-```
+![Layout](https://github.com/antomfdez/hours-layout/blob/main/assets/Hours.png)
+
 ## Mana2 stats (monkeyracer, spacegrams)
 ```
 Hand balance: 30.454% / 18.302% / 9.701% / 41.542%
